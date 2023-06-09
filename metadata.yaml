@@ -9,6 +9,9 @@ contributor:
     deathdate: 1953
     gutenberg_agent_id: '7471'
     url: http://www.gutenberg.org/2009/agents/7471
+covers:
+- cover_type: archival
+  image_path: 70884-h/images/cover.jpg
 creator:
   author:
     agent_name: Bernard, Tristan
@@ -21,6 +24,8 @@ creator:
     - https://en.wikipedia.org/wiki/Tristan_Bernard
     - https://fr.wikipedia.org/wiki/Tristan_Bernard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70884#French-without-a-master-b-A-farce-in-one-act
 gutenberg_issued: '2023-05-30'
 identifiers:
   gutenberg: '70884'
